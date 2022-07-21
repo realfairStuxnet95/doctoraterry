@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024860213115",
+    "project_id": "doctorate-35d14",
+    "storage_bucket": "doctorate-35d14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024860213115:android:bb6a9131a576f72ac577de",
+        "android_client_info": {
+          "package_name": "com.vaibhavmojidra.doctorsappointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024860213115-foftuqjgpfj7g96v1t28d77s62j4m2dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqsiGF1XL2oV8AvogRGQe4MJd_VuOYWHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024860213115-foftuqjgpfj7g96v1t28d77s62j4m2dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
